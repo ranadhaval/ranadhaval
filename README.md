@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadhaval&label=Profile%20views&color=0e75b6&style=flat" alt="ranadhaval" /> </p>
 
-- 🔭 I’m currently working on [TourEase](https://github.com/ranadhaval/TourEase)
+- 🔭 I’m currently working on [NewCo](https://github.com/ranadhaval/NewCo)
 
 - 🌱 I’m currently learning **Flutter, Data Structure, Node.js**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rd755937@gmail.com**
 
-- 📄 Know about my experiences wia my [Resume](https://drive.google.com/file/d/1x1zYw00MGhQyU6cO6Fdm-Sgtb-MQh1nd/view?usp=sharing) 
+- 📄 Know about my experiences with my [Resume](https://drive.google.com/file/d/1xadEP1-zj6wf3F6rX1fkasGNDUu62RWg/view?usp=sharing) 
 
 - ⚡ Fun fact **I'm a puzzle enthusiast and enjoy solving complex brain teasers. The logical thinking and problem-solving skills I gain from puzzles often translate into elegant code solutions.**
 
