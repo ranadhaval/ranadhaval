@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rd755937@gmail.com**
 
-- 📄 Know about my experiences with my [Resume](https://drive.google.com/file/d/1xadEP1-zj6wf3F6rX1fkasGNDUu62RWg/view?usp=sharing) 
+- 📄 Know about my experiences with my [Resume](https://drive.google.com/file/d/1EJEvBc1nhcUgnXEpsbiHVLcdLBjUpvcK/view?usp=sharing) 
 
 - ⚡ Fun fact **I'm a puzzle enthusiast and enjoy solving complex brain teasers. The logical thinking and problem-solving skills I gain from puzzles often translate into elegant code solutions.**
 
