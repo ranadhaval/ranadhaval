@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Flutter, Data Structure, Node.js**
 
-- 👯 I’m looking for a person who collaborate with me on my **New idea**
-
 - 🤝 I’m looking for help with **Node.js**
 
 - 💬 Ask me about **Flutter Things, new App ideas**
